@@ -3,6 +3,7 @@ import time
 
 #test pancing ke heroku supaya keluar dyno
 #test kedua pancing worker supaya muncul...
+#test dynoooooooasd
 
 tw = Twitter()
 
@@ -17,7 +18,7 @@ def start():
                 id = dms[i]['id']
 
                 if len(message) is not 0 and len(message) < 280:
-                    if "prikitiw" in message: #TRIGGER
+                    if "Sumbar!" in message: #TRIGGER
                         if len(message) is not 0:
                             if dms[i]['media'] is None:
                                 print("DM will be posted")

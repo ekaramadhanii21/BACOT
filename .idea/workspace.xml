@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WdqPI2p3BpVbX8AZVBFIyTTrq6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -77,6 +82,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1579497096225">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579497096225" />
     <state width="1308" height="176" key="GridCell.Tab.0.bottom" timestamp="1579494267391">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -93,6 +102,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1308" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579494267391" />
+    <state x="184" y="27" key="SettingsEditor" timestamp="1579497102741">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1579497102741" />
     <state x="384" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1579489844987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
