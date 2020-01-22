@@ -19,7 +19,7 @@ def start():
                 id = dms[i]['id']
 
                 if len(message) is not 0 and len(message) < 280:
-                    if "Sumbar!" in message: #TRIGGER
+                    if "BCT!" or "Bct!" or "bct!" in message: #TRIGGER
                         if len(message) is not 0:
                             if dms[i]['media'] is None:
                                 print("DM will be posted")
